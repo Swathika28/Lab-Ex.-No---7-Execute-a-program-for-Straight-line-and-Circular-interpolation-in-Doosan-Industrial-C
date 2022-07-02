@@ -44,8 +44,13 @@ Linear Interpolation
 Circular Interpolation
 
 ### output
-
-
+![straightlineandcircular](vk.png)
+![straightlineandcircular](vk1.png)
+![straightlineandcircular](vk2.png)
+![straightlineandcircular](vk3.png)
+![straightlineandcircular](vk4.png)
+![straightlineandcircular](vk5.png)
+![straightlineandcircular](vk6.png)
 
 
 ### Results 
